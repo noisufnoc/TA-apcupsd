@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+__author__ = 'noisufnoc'
+
 import subprocess
 import json
 
